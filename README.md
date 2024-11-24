@@ -24,6 +24,7 @@ spring.datasource.password=?
 Here, replace the `?` with your database credentials
 5. Once the application properties are set, run the `src/main/java/com/assignment/book/service/BooksService/BooksServiceApplication.java`
 6. You should be able to see the following line in the console:
+
 ![Console screenshot](./images/server_start.png "Console Screenshot for Server start")
 
 ## Testing the app
