@@ -15,7 +15,7 @@ To run the application:
 CREATE DATABASE bookdb;
 ```
 3. Once the bookdb database is created, open the application is Eclipse/IntelliJ IDE
-4. In the Project files, open the src/main/resources/application.properties file and update the following properties:
+4. In the Project files, open the `src/main/resources/application.properties` file and update the following properties:
 ```
 spring.datasource.url=jdbc:postgresql://localhost:5432/bookdb?useSSL=false
 spring.datasource.username=?
